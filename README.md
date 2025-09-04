@@ -59,7 +59,3 @@ This project is a beginner-level data analysis and machine learning exploration 
 2. Download the Titanic dataset from Kaggle
 3. Run the Jupyter Notebook: `Titanic_Model.ipynb`
 
----
-
-## 🔗 Links
-- [Kaggle Notebook (Coming Soon)](#)
